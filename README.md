@@ -18,8 +18,8 @@ This part focuses on analyzing climate data using SQLAlchemy, Pandas, and Matplo
 
 2. Station Analysis:
 
-Query the total number of stations and identify the most active station based on observation count.
-Retrieve temperature data for the most active station over the last 12 months, plot a histogram of the temperature observations, and close the session.
+- Query the total number of stations and identify the most active station based on observation count.
+- Retrieve temperature data for the most active station over the last 12 months, plot a histogram of the temperature observations, and close the session.
 
 #### Part 2: Climate App Design
 
