@@ -2,11 +2,11 @@
 
 sqlalchemy-challenge
 
-## Short description:
+### Short description:
 
 This challenge combines both data analysis and app development. It is divided into two main parts:
 
-### Part 1: Climate Data Analysis
+###### Part 1: Climate Data Analysis
 This part focuses on analyzing climate data using SQLAlchemy, Pandas, and Matplotlib, and is divided into two sections:
 
 1. Precipitation Analysis:
@@ -18,7 +18,7 @@ This part focuses on analyzing climate data using SQLAlchemy, Pandas, and Matplo
 Query the total number of stations and identify the most active station based on observation count.
 Retrieve temperature data for the most active station over the last 12 months, plot a histogram of the temperature observations, and close the session.
 
-### Part 2: Climate App Design
+###### Part 2: Climate App Design
 
 This part involves building a Flask API with the following routes:
 
