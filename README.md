@@ -1,6 +1,6 @@
 # Assignment-Module Challenge # 10: 
 
-sqlalchemy-challenge
+sqlalchemy-challenge.
 
 ## Short description:
 
@@ -10,11 +10,14 @@ This challenge combines both data analysis and app development. It is divided in
 This part focuses on analyzing climate data using SQLAlchemy, Pandas, and Matplotlib, and is divided into two sections:
 
 1. Precipitation Analysis:
+
 - Use Python, SQLAlchemy, Pandas, and Matplotlib to analyze climate data.
 - Connect to the hawaii.sqlite database using SQLAlchemy’s create_engine() function.
 - Reflect the database tables into classes with automap_base() and query the precipitation data.
 - Retrieve the precipitation data for the last 12 months, plot the results, and generate summary statistics.
+
 2. Station Analysis:
+
 Query the total number of stations and identify the most active station based on observation count.
 Retrieve temperature data for the most active station over the last 12 months, plot a histogram of the temperature observations, and close the session.
 
